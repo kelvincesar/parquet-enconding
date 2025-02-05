@@ -1,0 +1,10 @@
+[package]
+name = "parquet-encoding"
+version = "0.1.0"
+edition = "2021"
+author
+
+[dependencies]
+arrow = "54.1.0"
+clap = "4.5.28"
+parquet = "54.1.0"
